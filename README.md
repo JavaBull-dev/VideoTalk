@@ -7,3 +7,7 @@
  - ffmpeg库
  - Qt框架
  - c++
+ 
+## 使用环境
+ - windows x64
+
